@@ -10,6 +10,7 @@ Run with limiting memory (in this example requesting for 1M but limiting the pro
 gcc limit_memory_to_process.c -o limit_memory_to_process
 systemd-run --scope -p MemoryLimit=1K ./limit_memory_to_process
 
+Explore ulimit/CGROUPS utilities, which are used to limit the resources
 */
 
 #include<stdio.h>
