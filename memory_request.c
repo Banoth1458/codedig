@@ -2,7 +2,7 @@
 This Program is intended to know the memory allocation for a process by operating system using malloc/calloc functions. 
 
 Suggestion: Try requesting more than available physical memory, see what happens to your program and allocate a virtual memory/paging/swap space and try to request more than available physical memory and see that program gets extra memory from swap space
-
+Kill the memory
 */
 #include<stdio.h>
 #include<stdlib.h>
