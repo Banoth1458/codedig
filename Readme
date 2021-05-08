@@ -1,0 +1,5 @@
+Description on what each file is about is given inside the file
+
+Tools suggested:
+"htop" a tools show the resouces usage by all running processes in system 
+Install using command "sudo apt install htop"
