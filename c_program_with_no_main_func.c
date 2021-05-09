@@ -1,5 +1,5 @@
 /* 
-This program intends to run withour main function
+This program intends to run without main function
 
 Have you ever tried writting a c program without main function, Please look at the code
 
