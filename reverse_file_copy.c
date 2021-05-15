@@ -1,14 +1,25 @@
+/*
+This program intends to reverse the words in a file and save it to another file
+
+Ex:
+source.txt
+Hello codedig
+How are you
+
+destintion.txt
+olleH gidedoc
+woH era uoy
+
+run:
+gcc reverse_file_copy.c -o rfc
+./rfc source.txt destination.txt
+*/
+
 #include<stdio.h>
 #include<unistd.h>
 #include<fcntl.h>
 #include<string.h>
 #include<stdlib.h>
-
-struct args{
-int f;
-int l;
-char *buffer; 
-};
 
 void reverse(int i,int j, char *buf){
 char t;
