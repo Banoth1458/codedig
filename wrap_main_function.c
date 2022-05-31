@@ -1,6 +1,6 @@
 /* 
 
-This program is tntended to show how we can create a warapper for main function in c
+This program is intended to show how we can create a wrapper for main function in c
 The wrapper function will be resolved at pre processor stage during compilation
 */
 
