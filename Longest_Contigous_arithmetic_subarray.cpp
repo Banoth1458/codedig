@@ -1,8 +1,8 @@
 /*
-An Arthemetic array is an array that contains at atleast two integers and the difference between consecutive integers is equal,
-Ex: [3,3], [9,10,11], [9,7,5,3] are arthemetic arrays and [2,1,2] is not a arthemetic array.
+An Arithmetic array is an array that contains at atleast two integers and the difference between consecutive integers is equal,
+Ex: [3,3], [9,10,11], [9,7,5,3] are arithmetic arrays and [2,1,2] is not a arithmetic array.
 
-Find out the length of the Longest_Contigous_arthemetic_subarray from given array of size n.
+Find out the length of the Longest_Contigous_arithmetic_subarray from given array of size n.
 
 */
 
